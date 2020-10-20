@@ -1,4 +1,4 @@
-# Updating CSS with Java Script
+# Manipulating Arrays with JS 
 4th day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).
 
 ### 🛠 Tools:
